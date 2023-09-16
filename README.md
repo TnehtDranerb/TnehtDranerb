@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![logo](https://github.com/TnehtDranerb/KhentDayata/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Khent Bernard Dayata</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
