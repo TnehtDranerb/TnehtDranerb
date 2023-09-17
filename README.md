@@ -2,7 +2,7 @@
 <p text align="center";style="font-size: 30px;">Hi 👋, I'm Khent Bernard Dayata</p>
 <p text align="center";style="font-size: 16px;">Hello, I'm Khent Bernard D. Dayata, an IT enthusiast with a passion for technology and a strong desire to share my knowledge with others. As a compassionate IT student, I find immense joy in helping those who are eager to explore the fascinating world of technology. Whether you're looking to learn about programming, hardware, or any other aspect of IT, I'm here to guide and support you on your learning journey. Let's embark on this tech adventure together!</p>
 
- <img align="right" alt="Coding" width="300" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+ <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/e85d4e1a60f19b2c62bb7a88a73eabc5/tumblr_o7vs1zNO341runoqyo2_540.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnehtdranerb&label=Profile%20views&color=0e75b6&style=flat" alt="tnehtdranerb" /> </p>
 
