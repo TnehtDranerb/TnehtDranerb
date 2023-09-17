@@ -1,4 +1,4 @@
-![logo](https://github.com/TnehtDranerb/KhentDayata/blob/main/dayata%20banner.jpg)
+![logo](https://github.com/TnehtDranerb/KhentDayata/blob/main/banner%20last.jpg)
 <p text align="center";style="font-size: 30px;">Hi 👋, I'm Khent Bernard Dayata</p>
 <p text align="center";style="font-size: 16px;">Hello, I'm Khent Bernard D. Dayata, an IT enthusiast with a passion for technology and a strong desire to share my knowledge with others. As a compassionate IT student, I find immense joy in helping those who are eager to explore the fascinating world of technology. Whether you're looking to learn about programming, hardware, or any other aspect of IT, I'm here to guide and support you on your learning journey. Let's embark on this tech adventure together!</p>
 
