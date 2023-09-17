@@ -12,6 +12,8 @@
   
 - 💬 Ask me about **technology**
 
+- 📫 How to reach me **khentdayata111@gmail.com**
+
 - ⚡ Fun fact! **I was 18 when I got my first job at a fast-food restaurant, which helped me develop leadership, communication and listening skills.**
 
 <h3 align="left">Connect with me:</h3>
