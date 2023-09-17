@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/khentbernarddayata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khentbernarddayata" height="30" width="40" /></a>
+<a href="https://fb.com/Khent Bernard Dayata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khentbernarddayata" height="30" width="40" /></a>
 <a href="https://instagram.com/khent bernard dayata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khent bernard dayata" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/khent bernard d. dayata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khent bernard d. dayata" height="30" width="40" /></a>
 </p>
