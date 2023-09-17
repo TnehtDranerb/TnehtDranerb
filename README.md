@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TnehtDranerb](https://github.com/TnehtDranerb)
 
-- ⚡ Fun fact **I am Funny🤣**
+- ⚡ Fun fact **I was 17 when I got my first job at a fast-food restaurant, which helped me develop leadership, communication and listening skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
